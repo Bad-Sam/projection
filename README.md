@@ -34,6 +34,6 @@ To play the game, you can either:
 | Mathilde CONTE  | Game Designer     |
 | Thibault WEGNER | Game Designer     |
 | Corto GARNIER   | Game Designer     |
-| Sami AMARA      | Game Programmer   |
-| Thomas DALLARD  | Game Programmer   |
-| Jonathan SIX    | Game Programmer   |
+| [Sami AMARA](https://github.com/Bad-Sam)      | Game Programmer   |
+| [Thomas DALLARD](https://github.com/ThomasProg)  | Game Programmer   |
+| [Jonathan SIX](https://github.com/Renardjojo)    | Game Programmer   |
